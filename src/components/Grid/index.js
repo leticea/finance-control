@@ -8,7 +8,7 @@ const Grid = ({ itens, setItens }) => {
     setItens(newArray);
     localStorage.setItem("transactions", JSON.stringify(newArray));
   };
-  
+
   return (
     <C.Table>
       <C.Thead>
@@ -21,7 +21,7 @@ const Grid = ({ itens, setItens }) => {
       </C.Thead>
       <C.Tbody>
         {itens?.map((item, index) => (
-          <GridItem key={index} item={item} />
+          <GridItem key={index} item={item} onDelete={onDelete} />
         ))}
       </C.Tbody>
     </C.Table>
