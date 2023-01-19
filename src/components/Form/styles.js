@@ -52,4 +52,3 @@ export const Button = styled.button`
   color: #fff;
   background-color: teal;
 `;
-
