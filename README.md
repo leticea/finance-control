@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="buscar-cep" src=".github/image.png">
+  <img alt="" src=".github/image.png">
 </p>
 
 ## Finance Control
@@ -18,7 +18,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org/)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Nodejs](https://nodejs.org/en/) - 18.12.1
 
 ## 💻 Projeto
