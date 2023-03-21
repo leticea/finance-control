@@ -18,8 +18,9 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org/)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Styled-components](https://styled-components.com/)
 - [Nodejs](https://nodejs.org/en/) - 18.12.1
+- [NPM](https://www.npmjs.com/) - 8.19.2
 
 ## 💻 Projeto
 
